@@ -62,7 +62,7 @@ Suggesting improvements to existing tasks.
 
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 
 For any questions or suggestions, feel free to reach out via GitHub issues or contact me directly.
 
